@@ -1,0 +1,4 @@
+user:carlos
+password:SQL2308
+host:localhost
+database:library_db
