@@ -1,1 +1,0 @@
-SELECT * FROM library_db.authors;
